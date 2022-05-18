@@ -37,8 +37,9 @@
   font-weight: bold;
   align-self: center;
   position: relative;
-  margin: 0;
-  z-index: 1;
+  margin-top: 0;
+  margin-bottom: 0;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -105,6 +106,7 @@
 }
 
 .two-columns__main-text {
+  min-width: 784px;
   font-size: 24px;
   line-height: 34px;
   font-weight: normal;
@@ -163,6 +165,9 @@
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
 }
 
 .table__cell {
@@ -217,6 +222,8 @@
 }
 
 .feynman__subtitle {
+  margin-top: 70px;
+  margin-bottom: 0;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -267,11 +274,11 @@
   z-index: 2;
 }
 
-.table-heading_theme_dark {
+.table__heading_theme_dark {
   color: white;
 }
 
-.table-text_theme_dark {
+.table__text_theme_dark {
   color: white;
 }
 
@@ -293,8 +300,6 @@
 .footer {
   min-height: 350px;
   background-color: #1f1f1f;
-  padding-top: 60px;
-  padding-bottom: 40px;
   position: relative;
   display: flex;
   justify-content: center;
@@ -320,6 +325,7 @@
   font-weight: bold;
   margin-bottom: 20px;
   padding: 0;
+  margin-top: 0;
 
 }
 
