@@ -9,6 +9,7 @@
 
 ## Реализация
 * Flexbox вёрстка
+<<<<<<< HEAD
 * CSS-анимация
 * Файловая структура проекта по правилам Nested БЭМ
 
@@ -21,6 +22,20 @@ https://Ww228wW.github.io/how-to-learn/
 ---
 
 # How to learn. The second project for Yandex.Praktikum
+=======
+* CSS-анимации
+* Файловая структура проекта по правилам Nested БЭМ
+
+## Планы по доработке
+* Адаптировать сайт для просмотра на разных устройствах
+
+## Ссылка на сайт:
+(https://github.com/Ww228wW/how-to-learn)
+
+---
+
+# How to learn. Yandex.Praktikum
+>>>>>>> 60424aeb0789c8997db609ad98c57922c2c3d496
 ---
 
 The single page website is created using some advanced features of HTML and CSS.
@@ -38,3 +53,7 @@ The single page website is created using some advanced features of HTML and CSS.
 * To optimize website for different screen sizes
 
 ## URL:
+<<<<<<< HEAD
+=======
+[https://github.com/Ww228wW]
+>>>>>>> 60424aeb0789c8997db609ad98c57922c2c3d496
