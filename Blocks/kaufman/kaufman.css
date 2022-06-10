@@ -1,0 +1,9 @@
+@import url(./__block/kaufman__block.css);
+@import url(./__subtitle/kaufman__subtitle.css);
+@import url(./__title/kaufman__title.css);
+@import url(./__triangle/kaufman__triangle.css);
+
+.kaufman {
+  background: #1f1f1f;
+  overflow: hidden;
+}

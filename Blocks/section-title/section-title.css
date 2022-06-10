@@ -1,0 +1,12 @@
+@import url(./_theme/section-title_theme_dark.css);
+
+.section-title {
+  /* Так-же для блока kaufman */
+  width: 60%;
+  font-size: 60px;
+  line-height: 1.15;
+  font-weight: bold;
+  margin: 0 0 20px;
+  text-align: center;
+  z-index: 2;
+}
