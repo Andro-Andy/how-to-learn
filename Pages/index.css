@@ -25,8 +25,6 @@
 /* two-columns */
 /* Techniques */
 @import url(../Blocks/techniques/techniques.css);
-@import url(../Blocks/techniques/__subtitle/techniques__subtitle.css);
-@import url(../Blocks/techniques/__title/techniques__title.css);
 /* techniques */
 @import url(../Blocks/cards/cards.css);
 @import url(../Blocks/cards/__description/cards__description.css);
