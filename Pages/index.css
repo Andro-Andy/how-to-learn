@@ -43,8 +43,6 @@
 @import url(../Blocks/video/video.css);
 @import url(../Blocks/video/__iframe/video__iframe.css);
 @import url(../Blocks/video/__iframes/video__iframes.css);
-@import url(../Blocks/video/__subtitle/video__subtitle.css);
-@import url(../Blocks/video/__title/video__title.css);
 /* video */
 @import url(../Blocks/oakley/oakley.css);
 /* Feynman */
@@ -78,9 +76,6 @@
 /* khan */
 /* Kaufman */
 @import url(../Blocks/kaufman/kaufman.css);
-@import url(../Blocks/kaufman/__block/kaufman__block.css);
-@import url(../Blocks/kaufman/__subtitle/kaufman__subtitle.css);
-@import url(../Blocks/kaufman/__title/kaufman__title.css);
 @import url(../Blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(../Blocks/rotation/rotation.css);
 /* kaufman */
@@ -88,18 +83,15 @@
 @import url(../Blocks/resources/resources.css);
 @import url(../Blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../Blocks/resources/__logo/resources__logo.css);
-@import url(../Blocks/resources/__subtitle/resources__subtitle.css);
-@import url(../Blocks/resources/__title/resources__title.css);
 /* resources */
 /* Footer */
 @import url(../Blocks/footer/footer.css);
 @import url(../Blocks/footer/__author/footer__author.css);
+@import url(../Blocks/footer/__column/footer__column.css);
+@import url(../Blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../Blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../Blocks/footer/__column-links/footer__column-links.css);
 @import url(../Blocks/footer/__column-link/footer__column-link.css);
-@import url(../Blocks/footer/__column_content/footer__column_content_copyright.css);
-@import url(../Blocks/footer/__column_content/footer__column_content_info.css);
-@import url(../Blocks/footer/__column_content/footer__column_content_social.css);
 @import url(../Blocks/footer/__columns/footer__columns.css);
 @import url(../Blocks/footer/__column-link/footer__column-link.css);
 @import url(../Blocks/footer/footer__social-icon/footer__social-icon.css);
