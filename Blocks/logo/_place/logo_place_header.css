@@ -5,3 +5,10 @@
   z-index: 2;
 
 }
+
+@media (max-width: 900px) {
+  .logo_place_header {
+    width: 80vw;
+    margin: auto;
+  }
+}

@@ -6,3 +6,18 @@
   height: 608px;
   z-index: 1;
 }
+
+@media (max-width: 1280px) {
+  .header__main-illustration {
+    max-width: 500px;
+    max-height: 400px;
+  }
+}
+
+@media (max-width: 900px) {
+  .header__main-illustration {
+    width: 60vw;
+    height: auto;
+    right: 19vw;
+  }
+}

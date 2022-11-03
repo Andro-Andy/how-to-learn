@@ -7,4 +7,21 @@
   background-color: #f2f2f2;
   box-sizing: border-box;
   overflow: hidden;
+
+}
+
+@media (max-width: 1280px) {
+  .header {
+    min-height: 50vh;
+    height: 56vh;
+  }
+}
+
+@media (max-width: 900px) {
+  .header {
+    min-height: 85vw;
+    margin: auto;
+    justify-content: center;
+    align-items: flex-start;
+  }
 }
