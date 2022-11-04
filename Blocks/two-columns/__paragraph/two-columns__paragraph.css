@@ -9,3 +9,11 @@
 .two-columns__paragraph:last-child {
   margin-bottom: 0;
 }
+
+@media(max-width: 1280px) {
+  .two-columns__paragraph {
+    font-size: 1.5vw;
+    line-height: 2.5vw;
+    margin-bottom: 2.5vw;
+  }
+}

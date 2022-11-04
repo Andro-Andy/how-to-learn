@@ -7,3 +7,9 @@
   color: #2f80ed;
   width: 100%;
 }
+
+@media(max-width: 1280px) {
+  .two-columns__brief {
+    font-size: 1.3vh;
+  }
+}

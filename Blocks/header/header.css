@@ -13,15 +13,21 @@
 @media (max-width: 1280px) {
   .header {
     min-height: 50vh;
-    height: 56vh;
+    height: 100vw;
   }
 }
 
 @media (max-width: 900px) {
   .header {
-    min-height: 85vw;
+    min-height: 70vh;
     margin: auto;
     justify-content: center;
     align-items: flex-start;
+  }
+}
+
+@media (max-width: 770px) {
+  .header {
+    min-height: 50vw;
   }
 }

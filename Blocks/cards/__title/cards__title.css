@@ -5,3 +5,9 @@
   margin-top: 0;
   margin-bottom: 16px;
 }
+
+@media (max-width:1280px) {
+  .cards__title {
+    font-size: 2.5vw;
+  }
+}

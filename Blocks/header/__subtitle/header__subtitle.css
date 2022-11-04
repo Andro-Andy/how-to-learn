@@ -26,3 +26,13 @@
     font-size: 2.5vw;
   }
 }
+
+@media (max-width: 770px) {
+  .header__subtitle {
+    top: 15vh;
+    left: auto;
+    margin: 0px 29%;
+    font-size: 2.5vw;
+    line-height: 2.5vw;
+  }
+}

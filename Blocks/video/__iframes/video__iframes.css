@@ -4,3 +4,10 @@
   margin-right: auto;
   margin-top: 50px;
 }
+
+@media (max-width: 1280px) {
+  .video__iframes {
+    max-width: 78vh;
+    margin: 5vw;
+  }
+}

@@ -6,3 +6,9 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+
+@media (max-width:1280px) {
+  .techniques {
+    padding-top: 5vw;
+  }
+}

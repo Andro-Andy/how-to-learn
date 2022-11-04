@@ -8,3 +8,10 @@
 .video__iframe:last-child {
   margin-left: 20px;
 }
+
+@media (max-width: 1280px) {
+  .video__iframe {
+    width: 40vw;
+    height: 24vw;
+  }
+}

@@ -10,5 +10,6 @@
   .logo_place_header {
     width: 80vw;
     margin: auto;
+    left: auto;
   }
 }
