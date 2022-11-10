@@ -14,3 +14,9 @@
 .feynman__link:hover {
   opacity: 0.3;
 }
+
+@media(max-width:1400px) {
+  .feynman__link {
+    font-size: 4vw;
+  }
+}

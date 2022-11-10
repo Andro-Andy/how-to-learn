@@ -11,3 +11,9 @@
     padding-top: 5vw;
   }
 }
+
+@media (max-width: 520px) {
+  .description {
+    width: 80vw;
+  }
+}

@@ -6,3 +6,11 @@
   margin-top: 18px;
   margin-bottom: 18px;
 }
+
+@media (max-width:520px) {
+  .footer__author {
+    font-size: 10vw;
+    margin: 5vw;
+  }
+
+}

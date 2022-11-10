@@ -31,3 +31,9 @@
     min-height: 50vw;
   }
 }
+
+@media (max-width: 520px) {
+  .header {
+    min-height: 50vw;
+  }
+}

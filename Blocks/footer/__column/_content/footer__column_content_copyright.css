@@ -2,3 +2,10 @@
   justify-content: space-between;
   flex-basis: 711px;
 }
+
+@media(max-width:1120px) {
+  .footer__column_content_copyright {
+    justify-content: flex-start;
+    flex-basis: 30vw;
+  }
+}

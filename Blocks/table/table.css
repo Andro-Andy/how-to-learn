@@ -7,3 +7,11 @@
   margin-top: 0;
   margin-bottom: 0;
 }
+
+@media (max-width:1400px) {
+  .table {
+    width: 80vw;
+    align-content: center;
+    justify-content: space-around;
+  }
+}

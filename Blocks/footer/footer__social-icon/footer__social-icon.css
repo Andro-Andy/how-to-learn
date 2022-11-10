@@ -3,3 +3,9 @@
   min-height: 16px;
   padding-right: 10px;
 }
+
+@media (max-width:520px) {
+  .footer__social-icon {
+    width: 7vw;
+  }
+}

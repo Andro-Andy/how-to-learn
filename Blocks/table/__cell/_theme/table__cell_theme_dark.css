@@ -3,3 +3,10 @@
   margin-top: 80px;
   z-index: 2;
 }
+
+@media(max-width:520px) {
+  .table__cell_theme_dark {
+    margin-top: 3vw;
+    width: 60vw;
+  }
+}

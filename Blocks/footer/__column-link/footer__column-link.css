@@ -11,3 +11,10 @@
 .footer__column-link:hover {
   opacity: 0.3;
 }
+
+@media (max-width:520px) {
+  .footer__column-link {
+    font-size: 8vw;
+    line-height: 9vw;
+  }
+}

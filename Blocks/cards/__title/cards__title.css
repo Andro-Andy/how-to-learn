@@ -11,3 +11,9 @@
     font-size: 2.5vw;
   }
 }
+
+@media (max-width:520px) {
+  .cards__title {
+    font-size: 4.5vw;
+  }
+}

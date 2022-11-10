@@ -2,3 +2,19 @@
   width: 270px;
   height: 38px;
 }
+
+@media(max-width:1280px) {
+  .resources__logo {
+    width: 15vw;
+    height: 3vw;
+    margin: 2vw 0;
+  }
+}
+
+@media(max-width:770px) {
+  .resources__logo {
+    width: 50vw;
+    height: 6vw;
+    margin: 2vw 0;
+  }
+}

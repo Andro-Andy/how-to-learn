@@ -10,3 +10,10 @@
     line-height: 2.5vw;
   }
 }
+
+@media(max-width: 520px) {
+  .two-columns__span-accent {
+    font-size: 4.5vw;
+    line-height: 2.5vw;
+  }
+}

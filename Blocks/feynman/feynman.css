@@ -11,3 +11,12 @@
   box-sizing: border-box;
   padding-top: 100px;
 }
+
+@media(max-width:1400px) {
+  .feynman {
+    height: 60vw;
+    min-height: 100px;
+    padding-top: 5vw;
+    background-size: 60vw;
+  }
+}

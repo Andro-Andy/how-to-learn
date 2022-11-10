@@ -9,5 +9,15 @@
   .video__iframes {
     max-width: 78vh;
     margin: 5vw;
+
+  }
+}
+
+@media (max-width: 770px) {
+  .video__iframes {
+    margin: auto;
+    display: grid;
+    grid-template-rows: repeat(1, 45vw);
+    align-items: center;
   }
 }

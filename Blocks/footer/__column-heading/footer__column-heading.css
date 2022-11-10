@@ -5,3 +5,10 @@
   font-weight: bold;
   margin: 0;
 }
+
+@media (max-width:520px) {
+  .footer__column-heading {
+    font-size: 9vw;
+  }
+
+}

@@ -5,3 +5,10 @@
   font-size: 24px;
   font-weight: normal;
 }
+
+@media (max-width:1280px) {
+  .khan__quote-author-subline {
+    margin-top: 1vw;
+    font-size: 3vw;
+  }
+}

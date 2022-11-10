@@ -12,8 +12,17 @@
 
 @media(max-width: 1280px) {
   .two-columns__paragraph {
-    font-size: 1.5vw;
+    font-size: 2vw;
     line-height: 2.5vw;
     margin-bottom: 2.5vw;
+  }
+}
+
+@media(max-width: 520px) {
+  .two-columns__paragraph {
+    font-size: 4vw;
+    line-height: 4.5vw;
+    margin-bottom: 2.5vw;
+    width: 80vw;
   }
 }

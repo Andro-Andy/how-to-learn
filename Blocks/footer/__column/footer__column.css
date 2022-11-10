@@ -1,4 +1,13 @@
 .footer__column {
   flex-direction: column;
   display: flex;
+
+}
+
+@media(max-width:520px) {
+  .footer__column {
+    align-items: center;
+    margin: 4vw;
+
+  }
 }

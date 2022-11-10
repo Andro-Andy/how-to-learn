@@ -15,3 +15,11 @@
     margin: 5vw auto;
   }
 }
+
+@media (max-width:520px) {
+  .cards__image {
+    width: 50vw;
+    height: auto;
+    margin: 5vw auto;
+  }
+}

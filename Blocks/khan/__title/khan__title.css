@@ -4,3 +4,10 @@
   font-weight: bold;
   margin: 0px;
 }
+
+@media (max-width:1280px) {
+  .khan__title {
+    margin-bottom: 4vw;
+    font-size: 4.6vw;
+  }
+}

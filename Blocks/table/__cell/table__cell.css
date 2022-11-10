@@ -3,3 +3,16 @@
   margin-top: 60px;
   list-style-type: none;
 }
+
+@media (max-width:1400px) {
+  .table__cell {
+    margin: 4vw;
+  }
+}
+
+@media (max-width:658px) {
+  .table__cell {
+    margin-bottom: 5vw;
+    text-align: center;
+  }
+}

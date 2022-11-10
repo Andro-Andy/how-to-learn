@@ -9,7 +9,13 @@
 @media (max-width:1280px) {
   .cards__description {
     line-height: 1.5;
-    font-size: 1.1vw;
+    font-size: 1.9vw;
 
+  }
+}
+
+@media (max-width:520px) {
+  .cards__description {
+    font-size: 4vw;
   }
 }

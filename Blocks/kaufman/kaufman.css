@@ -9,3 +9,9 @@
   overflow: hidden;
   z-index: 2;
 }
+
+@media (max-width:1280px) {
+  .kaufman {
+    padding: 9vw 0;
+  }
+}
