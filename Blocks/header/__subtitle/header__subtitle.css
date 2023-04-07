@@ -13,7 +13,7 @@
 
 @media (max-width: 1280px) {
   .header__subtitle {
-    font-size: 15px;
+    font-size: 1.25rem;
     left: 5%;
   }
 }
@@ -24,6 +24,7 @@
     left: auto;
     margin: 0px 29%;
     font-size: 2.5vw;
+    bottom: 0;
   }
 }
 

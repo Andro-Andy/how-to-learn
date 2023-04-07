@@ -16,8 +16,15 @@
 
 @media (max-width: 900px) {
   .header__main-illustration {
-    width: 60vw;
+
     height: auto;
     right: auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .header__main-illustration {
+    height: 80vw;
+    width: auto;
   }
 }

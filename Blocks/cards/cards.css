@@ -17,12 +17,7 @@
   }
 }
 
-@media (max-width:770px) {
-  .cards {
-    grid-template-columns: repeat(2, 26vw);
 
-  }
-}
 
 @media (max-width:520px) {
   .cards {

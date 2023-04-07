@@ -3,7 +3,7 @@
   left: 64px;
   position: absolute;
   z-index: 2;
-
+  top: 10px;
 }
 
 @media (max-width: 900px) {
