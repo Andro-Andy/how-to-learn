@@ -1,0 +1,21 @@
+@import url(../Vendor/normalize.css);
+@import url(../Blocks/page/page.css);
+@import url(../Blocks/link/link.css);
+@import url(../Blocks/header/header.css);
+@import url(../Blocks/logo/logo.css);
+@import url(../Blocks/rotation/rotation.css);
+@import url(../Blocks/description/description.css);
+@import url(../Blocks/two-columns/two-columns.css);
+@import url(../Blocks/tehcnics/technics.css);
+@import url(../Blocks/cards/cards.css);
+@import url(../Blocks/section-title/section-title.css);
+@import url(../Blocks/section-subtitle/section-subtitle.css);
+/* Video  */
+/* oakley */
+@import url(../Blocks/feynman/feynman.css);
+@import url(../Blocks/digits/digits.css);
+@import url(../Blocks/table/table.css);
+/* Khan bloks */
+@import url(../Blocks/kaufman/kaufman.css);
+/* resours */
+@import url(../Blocks/footer/footer.css);
