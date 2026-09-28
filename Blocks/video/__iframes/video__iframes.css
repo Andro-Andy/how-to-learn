@@ -3,13 +3,15 @@
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
+  gap: 20px;
 }
 
 @media (max-width: 1280px) {
   .video__iframes {
     max-width: 78vh;
     margin: 5vw;
-
+    gap: 2vw;
+    flex-direction: column;
   }
 }
 

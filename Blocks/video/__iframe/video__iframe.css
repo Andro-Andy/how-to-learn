@@ -2,22 +2,11 @@
   width: 515px;
   height: 316px;
   border: 0;
-
-}
-
-.video__iframe:last-of-type {
-  margin-left: 20px;
 }
 
 @media (max-width: 1280px) {
   .video__iframe {
     width: 70vw;
     height: 40vw;
-  }
-}
-
-@media (max-width: 770px) {
-  .video__iframe:last-of-type {
-    margin: auto;
   }
 }
